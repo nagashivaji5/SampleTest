@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-05-01 06:14:01.202 UTC</timestamp>
+  <original>
+    <name>mavendemo/com.git.testing:SampleTest</name>
+    <number>1</number>
+  </original>
+  <md5sum>ce9285d8ab252c566cdc3b078a922781</md5sum>
+  <fileName>com.git.testing:SampleTest.war</fileName>
+  <usages>
+    <entry>
+      <string>mavendemo/com.git.testing:SampleTest</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>mavendemo</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

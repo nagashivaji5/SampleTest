@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-05-01 06:14:01.521 UTC</timestamp>
+  <md5sum>e76bf26b6955a7fa73d85d096be6e1a6</md5sum>
+  <fileName>axis:axis-wsdl4j-1.5.1.jar</fileName>
+  <usages>
+    <entry>
+      <string>mavendemo/com.git.testing:SampleTest</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>mavendemo</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
